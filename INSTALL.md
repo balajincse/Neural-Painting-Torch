@@ -45,14 +45,6 @@ luarocks install loadcaffe
 
 ## Step 3: Install neural-style
 
-First we clone `neural-style` from GitHub:
-
-```
-cd ~/
-git clone https://github.com/jcjohnson/neural-style.git
-cd neural-style
-```
-
 Next we need to download the pretrained neural network models:
 
 ```
